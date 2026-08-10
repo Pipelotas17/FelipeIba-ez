@@ -28,7 +28,7 @@ I'm a Data Engineering and Artificial Intelligence student at Universidad Simón
 
 - 📫 Reach out to me at: [escorciaibanezf@gmail.com](mailto:escorciaibanezf@gmail.com)
 
-<h2 align="left" >My Skills Include</h2>
+
 
 
 
@@ -85,13 +85,7 @@ I'm a Data Engineering and Artificial Intelligence student at Universidad Simón
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-6B7280?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL ELT"/>
 </p>
 
-### ⚙️ GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/Pipelotas17">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipelotas17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-</p>
 
 ### 🤝🏻 Connect with Me
 
