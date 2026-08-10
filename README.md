@@ -1,14 +1,16 @@
 <p align="center">
   <img 
-    width="35%" 
+    style="width:40%; height:auto;" 
     alt="Cat Coding"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlmd29tNnRuZDljNjU3ZDkxdndycm9tMTk3enVha2pucmZkY2g2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif"
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlmd29tNnRuZDljNjU3ZDkxdndycm9tMTk3enVha2pucmZkY2g2cyZlcD1...
   />
 </p>
 
-<h1 align="center">Hey there! I'm Felipe Ibañez 👋</h1>
+<h1 align="center">
+  Hey there! I'm Felipe Ibañez 👋
+</h1>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Pedro Medina -->
+### 👨🏻‍💻 About Me
 
 ### 👨🏻‍💻 &nbsp;About Me
 
