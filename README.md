@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:90%; height:auto" alt="Night Coding" src="./assets/coding.png"/> 
+  <img style="width:90%; height:auto" alt="Cat Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlmd29tNnRuZDljNjU3ZDkxdndycm9tMTk3enVha2pucmZkY2g2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif"/> 
 </p>
 
 
