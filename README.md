@@ -32,47 +32,74 @@ I'm a Data Engineering and Artificial Intelligence student at Universidad Simón
 
 
 
-### 🛠 &nbsp;Tech Stack
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-  ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
-  ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
-  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge&logoColor=white)&nbsp;
-  
+<h2 align="left">My Skills Include</h2>
 
-  ### 🗃 &nbsp;Databases
-  
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+### 🛠️ Tech Stack
 
-  ### 🧰 &nbsp;Other Tools 
-  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" alt="GeoPandas"/>
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white" alt="Folium"/>
+  <img src="https://img.shields.io/badge/OSMnx-2E7D32?style=for-the-badge&logo=openstreetmap&logoColor=white" alt="OSMnx"/>
+</p>
 
+### ☁️ Cloud & Data Engineering
 
-### <h2>⚙️ Github stats:</h2> 
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Cloud%20Storage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=black" alt="Google Cloud Storage"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+</p>
+
+### 🗃️ Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+</p>
+
+### 🧰 Other Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+</p>
+
+### 📐 Data Engineering
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Modeling-4B5563?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling"/>
+  <img src="https://img.shields.io/badge/Data%20Warehouse-374151?style=for-the-badge&logo=snowflake&logoColor=white" alt="Data Warehouse"/>
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-6B7280?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="ETL ELT"/>
+</p>
+
+### ⚙️ GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Pipelotas17">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pipelotas17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Pipelotas17">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pipelotas17&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pipelotas17&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </p>
 
+### 🤝🏻 Connect with Me
 
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="www.linkedin.com/in/felipe-escorcia"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:escorciaibanezf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-
+<p align="left">
+  <a href="https://github.com/Pipelotas17">
+    <img src="https://img.shields.io/badge/GitHub-Pipelotas17-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-escorcia/">
+    <img src="https://img.shields.io/badge/LinkedIn-Felipe%20Escorcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
