@@ -2,15 +2,15 @@
   <img 
     style="width:40%; height:auto;" 
     alt="Cat Coding"
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlmd29tNnRuZDljNjU3ZDkxdndycm9tMTk3enVha2pucmZkY2g2cyZlcD1...
-  />
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlmd29tNnRuZDljNjU3ZDkxdndycm9tMTk3enVha2pucmZkY2g2cyZlcD1.../>
+    
 </p>
 
 <h1 align="center">
   Hey there! I'm Felipe Ibañez 👋
 </h1>
 
-### 👨🏻‍💻 About Me
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
