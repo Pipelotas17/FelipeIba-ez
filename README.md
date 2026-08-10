@@ -40,7 +40,7 @@ I'm a Data Engineering and Artificial Intelligence student at Universidad Simón
   ![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
   ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
   ![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)&nbsp;
-  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge&logo=OpenAI&logoColor=white)&nbsp;
+  ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge&logoColor=white)&nbsp;
   
 
   ### 🗃 &nbsp;Databases
